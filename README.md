@@ -63,6 +63,7 @@ shows the types.
 ## Prerequisites
 * Vim version 8 or higher or NeoVim version 0.2.0 or higher.
 * purs installed and available on your path
+* [syntastic]https://github.com/vim-syntastic/syntastic
 * [purescript-vim](https://github.com/raichoo/purescript-vim)
 * `bower.json` or `package.json` file in the root path of your project
 
